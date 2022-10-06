@@ -1,4 +1,4 @@
-Project: OpenCV_RobotArm_MATLAB
+#OpenCV_RobotArm_MATLAB
 
 
 This is a project to pick up and move blocks using OpenCV and Arduino programming using MATLAB.
